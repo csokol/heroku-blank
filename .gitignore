@@ -2,4 +2,5 @@ target
 *.class
 src/main/webapp/WEB-INF/classes
 tmp
-buil/
+build/
+src/main/webapp/WEB-INF/lib/
